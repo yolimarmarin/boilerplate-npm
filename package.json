@@ -17,5 +17,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "This is a fcc challenge",
-	"keywords": ["project","freecodecamp","npm"]
+	"keywords": ["project","freecodecamp","npm"],
+	"license": "MIT"
 }
