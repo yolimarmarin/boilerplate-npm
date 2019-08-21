@@ -16,5 +16,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "This is a fcc challenge"
+	"description": "This is a fcc challenge",
+	"keywords": ["project","freeCodeCamp","npm"]
 }
